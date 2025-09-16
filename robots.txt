@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ticmis.github.io/sitemap.xml

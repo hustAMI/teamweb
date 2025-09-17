@@ -80,9 +80,21 @@ layout: default
   {% if page.related_publications %}
     <h2>References</h2>
     <div class="publications">
-      {% bibliography --group_by none --cited_in_order %}
+        <ul>
+        {% for ref in page.related_publications %}
+            <li>
+                {% if ref.authors %}<strong>{{ ref.authors }}</strong>. {% endif %}
+                {% if ref.year %}<em>{{ ref.year }}</em>. {% endif %}
+                {% if ref.title %}<span class="title">{{ ref.title }}</span>. {% endif %}
+                {% if ref.journal %}<span class="journal">{{ ref.journal }}</span>. {% endif %}
+                {% if ref.volume %}Vol. {{ ref.volume }}, {% endif %}
+                {% if ref.pages %}pp. {{ ref.pages }}. {% endif %}
+                {% if ref.doi %}<a href="https://doi.org/{{ ref.doi }}" target="_blank">https://doi.org/{{ ref.doi }}</a>{% endif %}
+            </li>
+        {% endfor %}
+        </ul>
     </div>
-  {% endif %}
+{% endif %}
 
   {% if site.related_blog_posts and site.related_blog_posts.enabled %}
     {% if page.related_posts == null or page.related_posts %}

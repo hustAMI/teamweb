@@ -5,7 +5,7 @@
 <span class="cp">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">jupyter_path</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'assets/jupyter/blog.ipynb'</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">relative_url</span><span class="w"> </span><span class="cp">%}</span>
 <span class="cp">{%</span><span class="w"> </span><span class="nt">capture</span><span class="w"> </span><span class="nv">notebook_exists</span><span class="w"> </span><span class="cp">%}{%</span><span class="w"> </span><span class="nt">endcapture</span><span class="w"> </span><span class="cp">%}</span>
 <span class="cp">{%</span><span class="w"> </span><span class="nt">if</span><span class="w"> </span><span class="nv">notebook_exists</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s1">'true'</span><span class="w"> </span><span class="cp">%}</span>
-  <span class="cp">{%</span><span class="w"> </span><span class="nt">jupyter_notebook</span><span class="w"> </span><span class="nv">jupyter_path</span><span class="w"> </span><span class="cp">%}</span>
+  
 <span class="cp">{%</span><span class="w"> </span><span class="nt">else</span><span class="w"> </span><span class="cp">%}</span>
   &lt;p&gt;Sorry, the notebook you are looking for does not exist.&lt;/p&gt;
 <span class="cp">{%</span><span class="w"> </span><span class="nt">endif</span><span class="w"> </span><span class="cp">%}</span>

@@ -61,14 +61,17 @@ layout: default
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">
-        {% toc %}
+        <h2>目录</h2>
+        <!-- 使用Kramdown内置的目录生成功能 -->
+        * TOC
+        {:toc}
       </div>
       <hr>
     {% endif %}
     <div id="markdown-content">
       {{ content }}
     </div>
-  </article>
+</article>
 
   {% if page.citation %}
     {% include citation.liquid %}

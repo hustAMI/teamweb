@@ -7,7 +7,7 @@ div.container-link-button {
 }
 
 table.table-cv {
-  background-color: transparent !important;
+  background-color: adjust-color($cyan-color, $lightness: 10%) !important;
 }
 
 table.table-cv td,

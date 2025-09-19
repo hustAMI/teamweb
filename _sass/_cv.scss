@@ -7,12 +7,12 @@ div.container-link-button {
 }
 
 table.table-cv {
-  background-color: hsl(180, 100%, 60%) !important;
-}
+  background-color: transparent !important;
 
-table.table-cv td,
-table.table-cv th {
-  padding: 1px;
+  td,
+  th {
+    padding: 1px;
+  }
 }
 
 a.btncv {

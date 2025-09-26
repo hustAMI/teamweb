@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>hustAMI
+subtitle: hustAMI
 profile:
   align: right
   image: prof_pic.jpg

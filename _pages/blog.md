@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: 新闻
+title: blog
 nav: true
 nav_order: 1
 pagination:

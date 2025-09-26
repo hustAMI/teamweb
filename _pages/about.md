@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>科技楼北405</p>
+    <p>科技楼北405\n</p>
     <p>华中科技大学</p>
     <p>湖北省武汉市洪山区珞喻路1037号</p>
 

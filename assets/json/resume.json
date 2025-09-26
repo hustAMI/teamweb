@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "应用磁学与集成",
     "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
@@ -8,11 +8,11 @@
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "湖北省武汉市洪山区珞喻路1037号",
       "postalCode": "CA 94115",
       "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "countryCode": "CN",
+      "region": "Hubei"
     },
     "profiles": [
       {

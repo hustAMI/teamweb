@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /学生信息/
-title: people
+permalink: /people/
+title: 学生信息
 description: members of the lab or group
 nav: true
 nav_order: 7

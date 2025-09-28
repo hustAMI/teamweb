@@ -30,7 +30,8 @@ profiles:
     content: srp.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>石瑞鹏</p>
-      <p>2023级博士生</p>
-      <p>科技楼北315</p>
+      <p>石瑞鹏                </p>
+      <p>2023级博士生          </p>
+      <p>科技楼北315
+      </p>
 ---

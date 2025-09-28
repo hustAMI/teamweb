@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 首页
 permalink: /
 subtitle: hustAMI
 profile:

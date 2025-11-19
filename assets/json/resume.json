@@ -1,18 +1,18 @@
 {
-  "test": {
-    "a": "a",
-    "a": "a",
+   "basics": {
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "a": "a",
-    "a": "a",
-    "a": "a",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "湖北省武汉市洪山区珞喻路1037号",
+      "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
-      "countryCode": "CN",
-      "region": "Hubei"
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {

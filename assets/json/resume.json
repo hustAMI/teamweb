@@ -1,11 +1,13 @@
 {
   "蔡凯明": {
-    "name": "蔡凯明",
-    "label": "Scientist",
+    "职位": "教授、博士生导师、硕士生导师",
+    "单位": "华中科技大学物理学院、集成电路学院",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "学历": "研究生（博士）毕业",
+    "学位": "理学博士学位",
+    "学科": "微电子学与固体电子学
+    物理电子学
+    凝聚态物理",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "湖北省武汉市洪山区珞喻路1037号",

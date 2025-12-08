@@ -5,7 +5,7 @@ title: 教师简介
 nav: true
 nav_order: 1
 cv_pdf: 
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button，testtesttest.
+description: 蔡凯明，华中科技大学物理学院和集成电路学院教授、博士生导师。
 toc:
   sidebar: left
 ---

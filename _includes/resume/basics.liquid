@@ -25,4 +25,8 @@
       </td>
     </tr>
   {% endfor %}
+
+{% if data[1].image %}
+  <img src="{{ data[1].image | relative_url }}" class="profile-img" alt="Profile picture">
+{% endif %}
 </table>

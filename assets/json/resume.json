@@ -25,13 +25,31 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "新加坡国立大学-电子与计算机工程系",
+      "position": "博士后",
+      "url": "",
+      "startDate": "2017-03-01",
+      "endDate": "2020-11-01",
+      "summary": "",
+      "highlights": [""]
+    }
+    {
+      "name": "比利时欧洲微电子中心-计算与存储部",
+      "position": "高级研究员",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2023-06-01",
+      "summary": "",
+      "highlights": [""]
+    }
+    {
+      "name": "华中科技大学-物理学院、集成电路学院",
+      "position": "教授",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "至今",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "volunteer": [

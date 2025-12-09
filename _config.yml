@@ -146,9 +146,6 @@ related_blog_posts:
   enabled: true
   max_related: 5
 
-latest_posts:
-  enabled: false  # 核心：设为false关闭板块
-  num_posts: 5    # 数量可保留，不影响关闭逻辑
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.

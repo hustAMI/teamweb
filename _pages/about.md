@@ -15,6 +15,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+latest_posts: false
 ---
 
 蔡凯明，华中科技大学物理学院和集成电路学院教授、博士生导师，入选多项国家级人才计划，并获得《麻省理工科技评论》“35岁以下科技创新35人”发明家称号。

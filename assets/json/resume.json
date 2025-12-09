@@ -31,7 +31,7 @@
       "startDate": "2017-03-01",
       "endDate": "2020-11-01",
       "summary": "",
-      "highlights": [""]
+      "highlights": ""
     },
     {
       "name": "比利时欧洲微电子中心-计算与存储部",
@@ -40,7 +40,7 @@
       "startDate": "2021-01-01",
       "endDate": "2023-06-01",
       "summary": "",
-      "highlights": [""]
+      "highlights": ""
     },
     {
       "name": "华中科技大学-物理学院、集成电路学院",
@@ -49,7 +49,7 @@
       "startDate": "2023-06-01",
       "endDate": "至今",
       "summary": "",
-      "highlights": [""]
+      "highlights": ""
     }
   ],
   "volunteer": [
@@ -74,7 +74,7 @@
       "startDate": "2007-09-01",
       "endDate": "2011-06-01",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "中国科学院大学",
@@ -85,7 +85,7 @@
       "startDate": "2011-09-01",
       "endDate": "2017-06-01",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "中国科学院大学",
@@ -96,7 +96,7 @@
       "startDate": "2013-09-01",
       "endDate": "2017-06-01",
       "score": "",
-      "courses": [""]
+      "courses": ""
     }
   ],
   "awards": [

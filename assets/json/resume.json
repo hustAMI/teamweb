@@ -246,15 +246,14 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "自旋电子学",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     }
   ],

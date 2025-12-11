@@ -27,7 +27,7 @@ profiles:
       <p>shiruopeng</p>
   - align: right
     image: whp.jpg
-    content: whp.md
+    content: introduction_whp.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>王皓鹏</p>

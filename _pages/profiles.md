@@ -26,11 +26,10 @@ profiles:
       <p>12345</p>
       <p>shiruopeng</p>
   - align: right
-    image: prof_pic.jpg
-    content: srp.md
+    image: whp.jpg
+    content: whp.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>石瑞鹏</p>
-      <p>2023级博士生</p>
-      <p>科技楼北315</p>
+      <p>王皓鹏</p>
+      <p>2023级硕士生</p>
 ---

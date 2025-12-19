@@ -15,7 +15,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>石瑞鹏
-      2023级博士生
+      2024级博士生
       科技楼北315</p>
   - align: left
     image: prof_pic_color.jpg

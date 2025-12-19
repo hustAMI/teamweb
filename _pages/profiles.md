@@ -33,10 +33,10 @@ profiles:
       <p>王皓鹏</p>
       <p>2023级硕士生</p>
    - align: left
-    image: jsj.jpg
-    content: introduction_jsj.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>蒋叔稷</p> 
-      <p>2025级硕士生</p>
+     image: jsj.jpg
+     content: introduction_jsj.md
+     image_circular: false # crops the image to make it circular
+     more_info: >
+       <p>蒋叔稷</p> 
+       <p>2025级硕士生</p>
 ---

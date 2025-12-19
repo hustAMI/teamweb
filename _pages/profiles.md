@@ -32,5 +32,14 @@ profiles:
     more_info: >
       <p>王皓鹏</p>
       <p>2023级硕士生</p>
+  - align: left
+    image: prof_pic_color.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>abc</p>
+      <p>12345</p>
+      <p>shiruopeng</p>
+ 
    
 ---

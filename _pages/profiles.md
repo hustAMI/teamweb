@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: srp.png
     content: srp.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>石瑞鹏
       2024级博士生

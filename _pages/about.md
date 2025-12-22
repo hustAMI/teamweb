@@ -5,7 +5,7 @@ permalink: /
 subtitle: hustAMI
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hust.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>科技楼北405  </p>

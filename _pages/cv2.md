@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv2/
 title: 靳田丽老师
-assets/json/resume2.json
+json: assets/json/resume2.json
 nav: true
 nav_order: 2
 cv_pdf: 

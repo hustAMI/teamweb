@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: 教师简介
-resume: resume
+resume: "resume"
 nav: true
 nav_order: 1
 cv_pdf: 

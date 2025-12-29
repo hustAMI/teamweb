@@ -32,12 +32,12 @@ profiles:
       <p>蒋叔稷</p> 
       <p>2025级硕士生</p>
    - align: left
-    image: hsh.jpg
-    content: introduction_hsh.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>侯绍华</p> 
-      <p>2025级博士生</p>
+     image: hsh.jpg
+     content: introduction_hsh.md
+     image_circular: false # crops the image to make it circular
+     more_info: >
+       <p>侯绍华</p> 
+       <p>2025级博士生</p>
       
  
    

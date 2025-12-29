@@ -24,15 +24,13 @@ profiles:
     more_info: >
       <p>王皓鹏</p>
       <p>2023级硕士生</p>
-
-      - align: left
+  - align: left
     image: hsh.jpg
     content: introduction_hsh.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>侯绍华</p>
       <p>2025级博士生</p>
-      
   - align: right
     image: jsj.jpg
     content: introduction_jsj.md

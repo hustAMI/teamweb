@@ -70,7 +70,7 @@ layout: default
     <article>
       <div class="cv">
        {% assign resume_name = page.resume | default: "resume" %}
-       {% assign resume_data = site.data.[resume_name] %}
+       {% assign resume_data = site.data[resume_name] %}
        {% for data in resume_data %}
           {% if site.jsonresume and site.jsonresume.size > 0 %}
             {% unless site.jsonresume contains data[0] %}

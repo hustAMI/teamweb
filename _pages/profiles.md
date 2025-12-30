@@ -39,12 +39,12 @@ profiles:
       <p>侯绍华</p>
       <p>2025级博士生</p>
   - align: left
-     image: yzz.jpg
-     content: introduction_yzz.md
-     image_circular: false # crops the image to make it circular
-     more_info: >
-       <p>叶壮壮</p>
-       <p>2025级博士生</p> 
+    image: yzz.jpg
+    content: introduction_yzz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>叶壮壮</p>
+      <p>2025级博士生</p> 
   - align: right
     image: jsj.jpg
     content: introduction_jsj.md

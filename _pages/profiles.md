@@ -9,14 +9,21 @@ nav_order: 4
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+   - align: right
+    image: zyq.jpg
+    content: introduction_zyq.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>周钰卿
+      博士后
+      科技楼北315</p>
   - align: right
     image: srp.jpg
     content: introduction_srp.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>石瑞鹏
-      2024级博士生
-      科技楼北315</p>
+      2024级博士生</p>
   - align: left
     image: whp.jpg
     content: introduction_whp.md
@@ -31,6 +38,13 @@ profiles:
     more_info: >
       <p>侯绍华</p>
       <p>2025级博士生</p>
+   - align: left
+     image: yzz.jpg
+     content: introduction_yzz.md
+     image_circular: false # crops the image to make it circular
+     more_info: >
+       <p>叶壮壮</p>
+       <p>2025级博士生</p> 
   - align: right
     image: jsj.jpg
     content: introduction_jsj.md

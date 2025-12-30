@@ -53,6 +53,13 @@ profiles:
       <p>蒋叔稷</p> 
       <p>2025级硕士生</p>
   - align: right
+    image: gzb.jpg
+    content: introduction_gzb.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>高梓博</p> 
+      <p>2026级直博生（已推免录取）</p>
+  - align: right
     image: ljx.jpg
     content: introduction_ljx.md
     image_circular: false # crops the image to make it circular
@@ -66,6 +73,21 @@ profiles:
     more_info: >
       <p>李晨宇</p> 
       <p>2026级硕士生（已推免录取）</p>
+  - align: right
+    image: szh.jpg
+    content: introduction_szh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>宋仔豪</p> 
+      <p>2026级硕士生（已推免录取）</p>
+  - align: right
+    image: wbx.jpg
+    content: introduction_wbx.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>王炳轩</p> 
+      <p>2026级硕士生（已推免录取）</p>
+      
 
 
  

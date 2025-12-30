@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: srp.jpg
-    content: srp.md
+    content: introduction_srp.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>石瑞鹏

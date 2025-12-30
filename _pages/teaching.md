@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: 教学招生
-description: Materials for courses you taught. Replace this text with your description.
+description: "授课信息与招生名额"
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+蔡凯明老师教授课程：大学物理实验
 
-Organize your courses by years, topics, or universities, however you like!
+课题组招生名额：（）
+欢迎具有（）背景同学报考！
+

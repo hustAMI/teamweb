@@ -35,6 +35,8 @@ body.sticky-bottom-footer {
 .profile {
   img {
     width: 100%;
+    width: 10px !important;  // !important 写在 CSS 属性值后，符合语法规范
+    height: auto !important;
   }
 }
 

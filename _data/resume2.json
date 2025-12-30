@@ -1,12 +1,13 @@
 {
    "basics": {
-    "单位": "靳老师",
-    "职位": "教授、博士生导师、硕士生导师",
+    "单位": "华中科技大学集成电路学院",
+    "职位": "讲师",
     "学历": "研究生(博士)毕业",
-    "学位": "理学博士学位",
+    "学位": "哲学博士学位",
     "学科": "微电子学与固体电子学、物理电子学、凝聚态物理",
     "image": "assets/img/hsh.jpg",
-    "邮箱": "kmcai@hust.edu.cn",
+    "邮箱": "tljin@hust.edu.cn",
+    "办公地址": "华中科技大学光电大楼A区308",
     "简介": "",
     "location": {
       "address": "2712 Broadway St",
@@ -23,7 +24,7 @@
       }
     ]
   },
-  "work": [
+  "work（省略）": [
     {
       "name": "新加坡国立大学-电子与计算机工程系",
       "position": "博士后",
@@ -66,35 +67,35 @@
   ],
   "education": [
     {
-      "institution": "华中科技大学",
-      "location": "湖北省武汉市",
+      "institution": "山西大学",
+      "location": "山西省太原市",
       "url": "",
-      "area": "应用物理学",
-      "studyType": "理学学士学位--本科(学士)毕业",
-      "startDate": "2007-09-01",
-      "endDate": "2011-06-01",
+      "area": "",
+      "studyType": "本科(学士)毕业",
+      "startDate": "2008-09-01",
+      "endDate": "2012-06-01",
       "score": "",
       "courses": ""
     },
     {
-      "institution": "中国科学院大学",
-      "location": "北京市",
+      "institution": "兰州大学",
+      "location": "甘肃省兰州市",
       "url": "",
-      "area": "凝聚态物理",
-      "studyType": "理学博士学位--研究生(博士)毕业",
-      "startDate": "2011-09-01",
-      "endDate": "2017-06-01",
+      "area": "",
+      "studyType": "研究生(硕士)毕业",
+      "startDate": "2012-09-01",
+      "endDate": "2015-06-01",
       "score": "",
       "courses": ""
     },
     {
-      "institution": "中国科学院大学",
-      "location": "北京市",
+      "institution": "南洋理工大学",
+      "location": "新加坡",
       "url": "",
-      "area": "应用物理学",
-      "studyType": "理学博士学位--研究生(博士)毕业",
-      "startDate": "2013-09-01",
-      "endDate": "2017-06-01",
+      "area": "",
+      "studyType": "研究生(博士)毕业",
+      "startDate": "2015-09-01",
+      "endDate": "2019-06-01",
       "score": "",
       "courses": ""
     }
@@ -152,7 +153,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "publications（省略）": [
     {
       "name": "Recent advances in spin-orbit torques: Moving towards device applications",
       "publisher": "Applied Physics Reviews 5, 031107 (2018)",

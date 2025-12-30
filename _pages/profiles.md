@@ -52,6 +52,21 @@ profiles:
     more_info: >
       <p>蒋叔稷</p> 
       <p>2025级硕士生</p>
+  - align: right
+    image: ljx.jpg
+    content: introduction_ljx.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>刘嘉新</p> 
+      <p>2026级直博生（已推免录取）</p>
+  - align: right
+    image: lcy.jpg
+    content: introduction_lcy.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>李晨宇</p> 
+      <p>2026级硕士生（已推免录取）</p>
+
 
  
    

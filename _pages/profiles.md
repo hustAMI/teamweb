@@ -18,6 +18,13 @@ profiles:
       博士后
       科技楼北315</p>
   - align: right
+    image: zyl.jpg
+    content: introduction_zyl.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>朱玉良
+      2024级博士生</p>
+  - align: right
     image: srp.jpg
     content: introduction_srp.md
     image_circular: false # crops the image to make it circular

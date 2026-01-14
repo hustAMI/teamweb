@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: 人员信息
+title: 学生信息
 description: members of the lab or group
 nav: true
 nav_order: 4
@@ -52,6 +52,13 @@ profiles:
     more_info: >
       <p>叶壮壮</p>
       <p>2025级博士生</p> 
+  - align: right
+    image: wdh.jpg
+    content: introduction_wdh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>吴帝桦
+      2025级直博生</p>
   - align: right
     image: jsj.jpg
     content: introduction_jsj.md

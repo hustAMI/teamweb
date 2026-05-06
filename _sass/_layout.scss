@@ -53,15 +53,22 @@ body.sticky-bottom-footer {
 
 // TODO: redefine projects layout.
 
-/* Prevent about page bio text from extending under the right profile box */
-@media (min-width: 576px) {
-  .intro-text {
-    max-width: calc(70% - 1rem);
+/* about page intro text */
+@media (min-width: 768px) {
+  .post .intro-text {
+    display: block !important;
+    width: 66% !important;
+    max-width: 66% !important;
   }
 }
 
-@media (max-width: 575.98px) {
-  .intro-text {
-    max-width: 100%;
+@media (max-width: 767.98px) {
+  .post .intro-text {
+    width: 100% !important;
+    max-width: 100% !important;
   }
+}
+
+.intro-clear {
+  clear: both;
 }

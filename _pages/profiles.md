@@ -17,7 +17,7 @@ profiles:
       <p>周钰卿
       博士后
       科技楼北315</p>
-  - align: right
+  - align: left
     image: zyl.jpg
     content: introduction_zyl.md
     image_circular: false # crops the image to make it circular
@@ -38,7 +38,7 @@ profiles:
     more_info: >
       <p>王皓鹏</p>
       <p>2023级硕士生</p>
-  - align: left
+  - align: right
     image: hsh.jpg
     content: introduction_hsh.md
     image_circular: false # crops the image to make it circular
@@ -52,14 +52,14 @@ profiles:
     more_info: >
       <p>华俊茂</p>
       <p>2024级硕士生</p>
-  - align: left
+  - align: right
     image: yzz.jpg
     content: introduction_yzz.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>叶壮壮</p>
       <p>2025级博士生</p> 
-  - align: right
+  - align: left
     image: wdh.jpg
     content: introduction_wdh.md
     image_circular: false # crops the image to make it circular
@@ -73,7 +73,7 @@ profiles:
     more_info: >
       <p>蒋叔稷</p> 
       <p>2025级硕士生</p>
-  - align: right
+  - align: left
     image: gzb.jpg
     content: introduction_gzb.md
     image_circular: false # crops the image to make it circular
@@ -87,7 +87,7 @@ profiles:
     more_info: >
       <p>刘嘉新</p> 
       <p>2026级直博生（已推免录取）</p>
-  - align: right
+  - align: left
     image: lcy.jpg
     content: introduction_lcy.md
     image_circular: false # crops the image to make it circular
@@ -101,7 +101,7 @@ profiles:
     more_info: >
       <p>宋仔豪</p> 
       <p>2026级硕士生（已推免录取）</p>
-  - align: right
+  - align: left
     image: wbx.jpg
     content: introduction_wbx.md
     image_circular: false # crops the image to make it circular

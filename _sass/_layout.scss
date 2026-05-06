@@ -53,17 +53,50 @@ body.sticky-bottom-footer {
 
 // TODO: redefine projects layout.
 
-/* about page intro text */
+/* about page */
 @media (min-width: 768px) {
+  /* 左边简介文字保持不变 */
   .post .intro-text {
     display: block !important;
     width: 66% !important;
     max-width: 66% !important;
   }
+
+  /* 右边资料区：只稍微放大 */
+  .post .profile {
+    width: 240px !important;        /* 可改成 250px / 260px */
+    max-width: 240px !important;
+    margin-left: 1rem !important;   /* 缩小和左边文字的间距，腾一点空间 */
+  }
+
+  /* 图片占满右侧资料区 */
+  .post .profile img {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* 图片下方文字和图片左边对齐 */
+  .post .profile .more-info {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-top: 0.5rem !important;
+    text-align: left !important;
+  }
+
+  .post .profile .more-info p {
+    margin: 0 0 0.2rem 0 !important;
+  }
 }
 
 @media (max-width: 767.98px) {
   .post .intro-text {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .post .profile {
     width: 100% !important;
     max-width: 100% !important;
   }

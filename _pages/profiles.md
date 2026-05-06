@@ -6,6 +6,8 @@ description: members of the lab or group
 nav: true
 nav_order: 4
 
+
+
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
@@ -108,9 +110,29 @@ profiles:
     more_info: >
       <p>王炳轩</p> 
       <p>2026级硕士生（已推免录取）</p>
-      
 
-
- 
-   
 ---
+
+<style>
+@media (min-width: 768px) {
+  .post .profile {
+    width: 220px !important;
+    max-width: 220px !important;
+  }
+
+  .post .profile img {
+    width: 220px !important;
+    max-width: 220px !important;
+    height: auto !important;
+  }
+
+  .post .profile .more-info {
+    width: 220px !important;
+    max-width: 220px !important;
+    text-align: left !important;
+  }
+}
+</style>
+
+
+

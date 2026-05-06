@@ -116,19 +116,19 @@ profiles:
 <style>
 @media (min-width: 768px) {
   .post .profile {
-    width: 220px !important;
-    max-width: 220px !important;
+    width: 160px !important;
+    max-width: 160px !important;
   }
 
   .post .profile img {
-    width: 220px !important;
-    max-width: 220px !important;
+    width: 160px !important;
+    max-width: 160px !important;
     height: auto !important;
   }
 
   .post .profile .more-info {
-    width: 220px !important;
-    max-width: 220px !important;
+    width: 160px !important;
+    max-width: 160px !important;
     text-align: left !important;
   }
 }

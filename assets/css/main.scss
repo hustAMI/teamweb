@@ -23,3 +23,35 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+/* about page profile image enlarge */
+@media (min-width: 768px) {
+  body .post .profile.float-right {
+    width: 280px !important;
+    min-width: 280px !important;
+    max-width: 280px !important;
+    margin-left: 1.5rem !important;
+  }
+
+  body .post .profile.float-right img,
+  body .post .profile.float-right picture,
+  body .post .profile.float-right figure {
+    width: 280px !important;
+    min-width: 280px !important;
+    max-width: 280px !important;
+    height: auto !important;
+  }
+
+  body .post .profile.float-right .more-info {
+    width: 280px !important;
+    min-width: 280px !important;
+    max-width: 280px !important;
+    text-align: left !important;
+  }
+
+  body .post .profile.float-right .more-info p {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}

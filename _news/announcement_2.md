@@ -1,33 +1,11 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: 蔡凯明教授担任《Electron Devices Letters》编委
+date: 2026-03-11 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+物理学院蔡凯明教授近日应邀担任国际微电子器件领域顶级学术期刊《Electron Device Letters》（《电子器件快报》，简称EDL）编委（Editor）。《Electron Device Letters》是国际电子电气学会出版的微电子器件领域顶级期刊，也是IEEE Electron Devices Society旗舰期刊，创刊于1980年，旨在及时准确地报道电子器件领域的重大原创研究进展和突破，在国际微电子领域享有权威的学术地位和广泛的影响力。该期刊涵盖了半导体器件、光电子器件、微电子器件、纳米器件等方面的内容，旨在推动电子器件领域的研究和创新。蔡凯明主要从事磁性物理与自旋磁存储器件研究，在Science、Nature Electronics, Nature Materials、National Science Review、IEEE International Electron Devices Meeting （IEDM）和IEEE Symposium on VLSI Technology and Circuits（VLSI）等国际学术期刊和会议发表论文40余篇，申请专利16项，引用约4000次。其研究成果曾在Nature Electronics和APS等专题亮点报道，曾获得中国区《麻省理工科技评论》“35岁以下科技创新35人”发明家称号。此外，他曾担任多项国际知名学术会议的委员会成员、分会主席，受邀国内外学术会议做邀请报告，并长期为学术期刊承担审稿工作。此次蔡凯明担任EDL期刊编委，表明在其研究领域得到国际同行的高度肯定。
 
----
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.

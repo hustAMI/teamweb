@@ -12,6 +12,8 @@ related_posts: false
     
 蔡凯明主要从事磁性物理与自旋磁存储器件研究，在Science、Nature Electronics, Nature Materials、National Science Review、IEEE International Electron Devices Meeting （IEDM）和IEEE Symposium on VLSI Technology and Circuits（VLSI）等国际学术期刊和会议发表论文40余篇，申请专利16项，引用约4000次。其研究成果曾在Nature Electronics和APS等专题亮点报道，曾获得中国区《麻省理工科技评论》“35岁以下科技创新35人”发明家称号。此外，他曾担任多项国际知名学术会议的委员会成员、分会主席，受邀国内外学术会议做邀请报告，并长期为学术期刊承担审稿工作。此次蔡凯明担任EDL期刊编委，表明在其研究领域得到国际同行的高度肯定。
 
+![Electron Devices Letters]({{ '/assets/img/publication_preview/edl_editor.jpg' | relative_url }})
+
 IEEE Electron Devices Society官网：https://eds.ieee.org/publications/electron-device-letters/editor-in-chief-and-editors
 
 

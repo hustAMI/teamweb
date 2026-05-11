@@ -8,7 +8,7 @@ related_posts: false
 
 祝贺王皓鹏同学顺利通过硕士毕业答辩，并获评优秀毕业论文！
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 30px;">
   <img src="{{ '/assets/img/news/news260507-01.jpg' | relative_url }}" alt="announcement image" style="width: 65%; max-width: 900px; height: auto;">
 </div>
 

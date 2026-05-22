@@ -16,3 +16,6 @@ related_posts: false
   <img src="{{ '/assets/img/news/news260507-02.jpg' | relative_url }}" alt="announcement image" style="width: 65%; max-width: 900px; height: auto;">
 </div>
 
+<div style="text-align: center;">
+  <img src="{{ '/assets/img/news/news260507_03.jpg' | relative_url }}" alt="announcement image" style="width: 65%; max-width: 900px; height: auto;">
+</div>

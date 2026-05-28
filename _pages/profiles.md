@@ -14,7 +14,7 @@ groups:
         name_en: Kaiming Cai
         role: 教授
         note: 35岁以下科技创新35人
-        email: kmcai@hust.edu.cn
+        email: 
         image: prof_pic.jpg
 
   - title: 教师
@@ -23,7 +23,7 @@ groups:
         name: 靳田丽
         name_en: Tianli Jin
         role: 讲师
-        email: tljin@hust.edu.cn
+        email: 
         image: prof_jin.png
 
   - title: 学生

@@ -109,7 +109,7 @@ groups:
         image: lcy.jpg
 
 
- - title: 已毕业学生
+  - title: 已毕业学生
     collapsible: true
     members:
       - id: whp

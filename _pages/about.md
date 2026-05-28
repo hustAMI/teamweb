@@ -12,7 +12,7 @@ profile:
     <p>华中科技大学</p>
     <p>湖北省武汉市洪山区珞喻路1037号</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 latest_posts: true

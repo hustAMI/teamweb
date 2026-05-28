@@ -83,6 +83,11 @@ groups:
         role: 2024级硕士生
         image: hjm.jpg
      
+     - id: yyh
+        name: 袁宇豪
+        role: 2024级硕士生
+        image: yyh.jpg
+      
       - id: gzq
         name: 高卓祺
         role: 2025级硕士生

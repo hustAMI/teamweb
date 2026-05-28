@@ -120,55 +120,69 @@ groups:
 
       - id: sk
         name: 石坤
-        role: 本科毕业生（2024-2025）
+        role: 本科生（2024-2025）
         image: sk.jpg
-        note: 毕业去向：美国伊利诺伊大学香槟分校
+        note: 毕业去向：美国伊利诺伊大学香槟分校攻读博士
 ---
 
 <div class="lab-members-page">
 
   {% for group in page.groups %}
-  <section class="lab-section">
-    <h2 class="lab-section-title">{{ group.title }}</h2>
 
-    <div class="lab-grid {% if group.members.size == 1 %}lab-grid-one{% endif %}">
+    {% if group.collapsible %}
+    <details class="lab-section lab-collapsible-section">
+      <summary class="lab-section-title lab-section-summary">
+        {{ group.title }}
+      </summary>
+    {% else %}
+    <section class="lab-section">
+      <h2 class="lab-section-title">{{ group.title }}</h2>
+    {% endif %}
 
-      {% for member in group.members %}
+      <div class="lab-grid {% if group.members.size == 1 %}lab-grid-one{% endif %}">
 
-      {% if member.link %}
-        {% assign card_url = member.link %}
-      {% else %}
-        {% assign card_url = '/people/' | append: member.id | append: '/' | relative_url %}
-      {% endif %}
+        {% for member in group.members %}
 
-      <a class="lab-card" href="{{ card_url }}" aria-label="查看{{ member.name }}详细信息">
-
-        <div class="lab-photo-box">
-          <img src="{{ '/assets/img/' | append: member.image | relative_url }}" alt="{{ member.name }}">
-        </div>
-
-        <div class="lab-info">
-          <div class="lab-name-cn">{{ member.name }}</div>
-
-          {% if member.name_en %}
-          <div class="lab-name-en">{{ member.name_en }}</div>
+          {% if member.link %}
+            {% assign card_url = member.link %}
+          {% else %}
+            {% assign card_url = '/people/' | append: member.id | append: '/' | relative_url %}
           {% endif %}
 
-          <div class="lab-divider"></div>
+          <a class="lab-card" href="{{ card_url }}" aria-label="查看{{ member.name }}详细信息">
 
-          <div class="lab-role">{{ member.role }}</div>
+            <div class="lab-photo-box">
+              <img src="{{ '/assets/img/' | append: member.image | relative_url }}" alt="{{ member.name }}">
+            </div>
 
-          {% if member.note %}
-          <div class="lab-note">{{ member.note }}</div>
-          {% endif %}
-        </div>
+            <div class="lab-info">
+              <div class="lab-name-cn">{{ member.name }}</div>
 
-      </a>
+              {% if member.name_en %}
+              <div class="lab-name-en">{{ member.name_en }}</div>
+              {% endif %}
 
-      {% endfor %}
+              <div class="lab-divider"></div>
 
-    </div>
-  </section>
+              <div class="lab-role">{{ member.role }}</div>
+
+              {% if member.note %}
+              <div class="lab-note">{{ member.note }}</div>
+              {% endif %}
+            </div>
+
+          </a>
+
+        {% endfor %}
+
+      </div>
+
+    {% if group.collapsible %}
+    </details>
+    {% else %}
+    </section>
+    {% endif %}
+
   {% endfor %}
 
 </div>
@@ -325,5 +339,41 @@ html[data-theme="dark"] .lab-note {
     width: 85px;
     height: 110px;
   }
+}
+  .lab-section-summary {
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  position: relative;
+  padding-left: 1.2rem;
+}
+
+.lab-section-summary::-webkit-details-marker {
+  display: none;
+}
+
+.lab-section-summary::before {
+  content: "▶";
+  position: absolute;
+  left: 0;
+  top: 0.75rem;
+  font-size: 0.75rem;
+  color: #006eb8;
+}
+
+.lab-collapsible-section[open] .lab-section-summary::before {
+  content: "▼";
+}
+
+.lab-collapsible-section:not([open]) {
+  margin-bottom: 2.2rem;
+}
+
+.lab-collapsible-section:not([open]) .lab-section-summary {
+  margin-bottom: 0;
+}
+
+.lab-collapsible-section[open] .lab-grid {
+  margin-top: 1rem;
 }
 </style>

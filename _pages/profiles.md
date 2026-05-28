@@ -16,6 +16,7 @@ groups:
         note: 35岁以下科技创新35人
         email: 
         image: prof_pic.jpg
+        link: https://hustami.github.io/teamweb/cv/
 
   - title: 教师
     members:
@@ -136,9 +137,15 @@ groups:
         </a>
         {% endif %}
 
-        <a class="lab-more" href="{{ '/people/' | append: member.id | append: '/' | relative_url }}">
-          ›
+        {% if member.link %}
+        <a class="lab-more" href="{{ member.link }}">
+         ›
         </a>
+        {% else %}
+        <a class="lab-more" href="{{ '/people/' | append: member.id | append: '/' | relative_url }}">
+         ›
+        </a>
+        {% endif %}
 
       </div>
       {% endfor %}

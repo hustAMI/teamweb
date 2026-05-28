@@ -274,8 +274,9 @@ groups:
 }
 
 html[data-theme="dark"] .lab-card {
-  background: #1f1f1f;
-  border-color: #5b86b0;
+  background: var(--global-card-bg-color);
+  border-color: var(--global-divider-color);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.35);
 }
 
 html[data-theme="dark"] .lab-name-cn,

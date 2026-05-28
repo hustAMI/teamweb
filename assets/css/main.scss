@@ -55,3 +55,9 @@ $max-content-width: {{ site.max_width }};
     margin-right: 0 !important;
   }
 }
+
+/* 首页 sections 间距 */
+.post h2 {
+  margin-top: 2.8rem;
+  margin-bottom: 1.2rem;
+}

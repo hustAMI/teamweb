@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: 博客
+title: 新闻动态
 nav: true
 nav_order: 6
 pagination:

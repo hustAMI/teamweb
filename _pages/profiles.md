@@ -4,7 +4,7 @@ permalink: /people/
 title: 科研团队
 description: our team
 nav: true
-nav_order: 3
+nav_order: 4
 
 groups:
   - title: 课题组负责人

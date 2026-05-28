@@ -76,7 +76,7 @@ groups:
       
 
 
-  - title: 硕士生
+   - title: 硕士生
     members:
       - id: hjm
         name: 华俊茂

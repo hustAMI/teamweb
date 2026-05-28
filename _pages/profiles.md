@@ -75,15 +75,14 @@ groups:
 
       
 
-
-   - title: 硕士生
+  - title: 硕士生
     members:
       - id: hjm
         name: 华俊茂
         role: 2024级硕士生
         image: hjm.jpg
      
-     - id: yyh
+      - id: yyh
         name: 袁宇豪
         role: 2024级硕士生
         image: yyh.jpg

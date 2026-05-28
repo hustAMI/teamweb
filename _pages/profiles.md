@@ -29,14 +29,14 @@ groups:
         link: https://hustami.github.io/teamweb/cv2/
   
   - title: 博士后
-    members：
+    members:
       - id: zyq
         name: 周钰卿
         role: 博士后
         image: zyq.jpg
 
 
-  - title: 学生
+  - title: 博士生
     members:
       - id: zyl
         name: 朱玉良
@@ -48,56 +48,46 @@ groups:
         role: 2024级博士生
         image: srp.jpg
 
-      - id: whp
-        name: 王皓鹏
-        role: 2023级硕士生
-        image: whp.jpg
-
-      - id: hsh
-        name: 侯绍华
-        role: 2025级博士生
-        image: hsh.jpg
-
-      - id: hjm
-        name: 华俊茂
-        role: 2024级硕士生
-        image: hjm.jpg
-
       - id: yzz
         name: 叶壮壮
         role: 2025级博士生
         image: yzz.jpg
-
+        
+      - id: hsh
+        name: 侯绍华
+        role: 2025级博士生
+        image: hsh.jpg
+        
       - id: wdh
         name: 吴帝桦
         role: 2025级直博生
         image: wdh.jpg
 
-      
+      - id: ljx
+        name: 刘嘉新
+        role: 2026级直博生（已推免录取）
+        image: ljx.jpg
+        
       - id: gzb
         name: 高梓博
         role: 2026级直博生（已推免录取）
         image: gzb.jpg
 
-      - id: ljx
-        name: 刘嘉新
-        role: 2026级直博生（已推免录取）
-        image: ljx.jpg
-
-      - id: lcy
-        name: 李晨宇
-        role: 2026级硕士生（已推免录取）
-        image: lcy.jpg
-
-      - id: szh
-        name: 宋仔豪
-        role: 2026级硕士生（已推免录取）
-        image: szh.jpg
-
       
 
-  - title: 学生
+
+  - title: 硕士生
     members:
+      - id: whp
+        name: 王皓鹏
+        role: 2023级硕士生
+        image: whp.jpg
+
+      - id: hjm
+        name: 华俊茂
+        role: 2024级硕士生
+        image: hjm.jpg
+     
       - id: jsj
         name: 蒋叔稷
         role: 2025级硕士生
@@ -108,6 +98,15 @@ groups:
         role: 2026级硕士生（已推免录取）
         image: wbx.jpg
 
+      - id: szh
+        name: 宋仔豪
+        role: 2026级硕士生（已推免录取）
+        image: szh.jpg
+
+      - id: lcy
+        name: 李晨宇
+        role: 2026级硕士生（已推免录取）
+        image: lcy.jpg
 ---
 
 <div class="lab-members-page">

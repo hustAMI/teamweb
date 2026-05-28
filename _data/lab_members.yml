@@ -1,0 +1,37 @@
+- title: 课题组负责人
+  members:
+    - name_cn: 蔡凯明
+      name_en: Kaiming Cai
+      role: 教授
+      note: 测试
+      email: test@hust.edu.cn
+      photo: /assets/img/prof_pic.jpg
+      detail: /people/caikaiming/
+
+- title: 教师
+  members:
+    - name_cn: 靳田丽
+      name_en: Tianli Jin
+      role: 讲师
+      note:
+      email: test@hust.edu.cn
+      photo: /assets/img/prof_jin.png
+      detail: /people/jintianli/
+
+- title: 学生
+  members:
+    - name_cn: 朱玉良
+      name_en: Yu-Liang Zhu
+      role: 2024级博士生
+      note:
+      email:
+      photo: /assets/img/zyl.jpg
+      detail: /people/zhuyuliang/
+
+    - name_cn: 周钰卿
+      name_en: Yu-Qing Zhou
+      role: 博士后
+      note: 科技楼北315
+      email:
+      photo: /assets/img/zyq.jpg
+      detail: /people/yu-qing-zhou/

@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: 科研团队
-description: members of the lab or group
+description: our team
 nav: true
 nav_order: 3
 

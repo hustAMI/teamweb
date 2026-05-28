@@ -17,7 +17,7 @@ categories: news
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/news/edl_cover.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/publication_preview/electron_device_letters.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

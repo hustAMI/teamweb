@@ -227,7 +227,7 @@ groups:
 .lab-divider {
   width: 100%;
   height: 3px;
-  background: #1e5a89;
+  background: var(--global-theme-color);
   margin: 0.8rem 0 0.7rem;
 }
 

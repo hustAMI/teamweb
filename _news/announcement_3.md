@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-祝贺蔡凯明教授当选为华中科技大学2026年度“我最喜爱的教师班主任” :sparkles: :smile:
+祝贺蔡凯明教授当选为华中科技大学2026年度“我最喜爱的教师班主任” :sparkles: 

@@ -5,7 +5,7 @@ title: 新闻动态
 nav: true
 nav_order: 6
 pagination:
-  enabled: true
+  enabled: false
   collection: posts
   category: news
   permalink: /page/:num/

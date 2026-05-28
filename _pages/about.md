@@ -15,7 +15,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-latest_posts: false
+latest_posts: true
 ---
 
 <div class="intro-text" markdown="1">

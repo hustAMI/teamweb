@@ -152,7 +152,7 @@ groups:
           <a class="lab-card" href="{{ card_url }}" aria-label="查看{{ member.name }}详细信息">
 
             <div class="lab-photo-box">
-              <img src="{{ '/assets/img/' | append: member.image | relative_url }}" alt="{{ member.name }}">
+              <img src="{{ '/assets/img/members/' | append: member.image | relative_url }}" alt="{{ member.name }}">
             </div>
 
             <div class="lab-info">

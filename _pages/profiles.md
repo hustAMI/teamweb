@@ -78,11 +78,6 @@ groups:
 
   - title: 硕士生
     members:
-      - id: whp
-        name: 王皓鹏
-        role: 2023级硕士生
-        image: whp.jpg
-
       - id: hjm
         name: 华俊茂
         role: 2024级硕士生
@@ -112,6 +107,22 @@ groups:
         name: 李晨宇
         role: 2026级硕士生（已推免录取）
         image: lcy.jpg
+
+
+ - title: 已毕业学生
+    collapsible: true
+    members:
+      - id: whp
+        name: 王皓鹏
+        role: 硕士（2023-2026）
+        image: whp.jpg
+        note: 毕业去向：北京熵旋芯智有限公司
+
+      - id: sk
+        name: 石坤
+        role: 本科毕业生（2024-2025）
+        image: sk.jpg
+        note: 毕业去向：美国伊利诺伊大学香槟分校
 ---
 
 <div class="lab-members-page">

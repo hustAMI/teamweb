@@ -12,7 +12,7 @@ groups:
       - id: Kaiming-Cai
         name: 蔡凯明
         name_en: Kaiming Cai        
-	role: 教授
+	    role: 教授
         note: 35岁以下科技创新35人
         email: kmcai@hust.edu.cn
         image: prof_pic.jpg

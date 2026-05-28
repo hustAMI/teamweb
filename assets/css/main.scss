@@ -56,8 +56,11 @@ $max-content-width: {{ site.max_width }};
   }
 }
 
-/* 首页 sections 间距 */
 .post h2 {
-  margin-top: 2.8rem;
+  margin-top: 3rem;
   margin-bottom: 1.2rem;
+}
+
+.news {
+  margin-bottom: 3rem;
 }

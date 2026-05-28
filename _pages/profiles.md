@@ -1,115 +1,300 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
-title: 学生信息
+title: 科研团队
 description: members of the lab or group
 nav: true
 nav_order: 4
 
+groups:
+  - title: 课题组负责人
+    members:
+      - id: Kaiming-Cai
+        name: 蔡凯明
+        name_en: Kaiming Cai        
+	role: 教授
+        note: 35岁以下科技创新35人
+        email: kmcai@hust.edu.cn
+        image: prof_pic.jpg
 
+  - title: 教师
+    members:
+      - id: Tianli-Jin
+        name: 靳田丽
+        name_en: Tianli Jin
+        role: 讲师
+        email: tljin@hust.edu.cn
+        image: prof_jin.png
 
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: zyq.jpg
-    content: introduction_zyq.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>周钰卿
-      博士后
-      科技楼北315</p>
-  - align: left
-    image: zyl.jpg
-    content: introduction_zyl.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>朱玉良
-      2024级博士生</p>
-  - align: right
-    image: srp.jpg
-    content: introduction_srp.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>石瑞鹏
-      2024级博士生</p>
-  - align: left
-    image: whp.jpg
-    content: introduction_whp.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>王皓鹏</p>
-      <p>2023级硕士生</p>
-  - align: right
-    image: hsh.jpg
-    content: introduction_hsh.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>侯绍华</p>
-      <p>2025级博士生</p>
-  - align: left
-    image: hjm.jpg
-    content: introduction_hjm.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>华俊茂</p>
-      <p>2024级硕士生</p>
-  - align: right
-    image: yzz.jpg
-    content: introduction_yzz.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>叶壮壮</p>
-      <p>2025级博士生</p> 
-  - align: left
-    image: wdh.jpg
-    content: introduction_wdh.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>吴帝桦
-      2025级直博生</p>
-  - align: right
-    image: jsj.jpg
-    content: introduction_jsj.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>蒋叔稷</p> 
-      <p>2025级硕士生</p>
-  - align: left
-    image: gzb.jpg
-    content: introduction_gzb.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>高梓博</p> 
-      <p>2026级直博生（已推免录取）</p>
-  - align: right
-    image: ljx.jpg
-    content: introduction_ljx.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>刘嘉新</p> 
-      <p>2026级直博生（已推免录取）</p>
-  - align: left
-    image: lcy.jpg
-    content: introduction_lcy.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>李晨宇</p> 
-      <p>2026级硕士生（已推免录取）</p>
-  - align: right
-    image: szh.jpg
-    content: introduction_szh.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>宋仔豪</p> 
-      <p>2026级硕士生（已推免录取）</p>
-  - align: left
-    image: wbx.jpg
-    content: introduction_wbx.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>王炳轩</p> 
-      <p>2026级硕士生（已推免录取）</p>
+  - title: 学生
+    members:
+      - id: zyq
+        name: 周钰卿
+        role: 博士后
+        note: 科技楼北315
+        image: zyq.jpg
 
+      - id: zyl
+        name: 朱玉良
+        role: 2024级博士生
+        image: zyl.jpg
+
+      - id: srp
+        name: 石瑞鹏
+        role: 2024级博士生
+        image: srp.jpg
+
+      - id: whp
+        name: 王皓鹏
+        role: 2023级硕士生
+        image: whp.jpg
+
+      - id: hsh
+        name: 侯绍华
+        role: 2025级博士生
+        image: hsh.jpg
+
+      - id: hjm
+        name: 华俊茂
+        role: 2024级硕士生
+        image: hjm.jpg
+
+      - id: yzz
+        name: 叶壮壮
+        role: 2025级博士生
+        image: yzz.jpg
+
+      - id: wdh
+        name: 吴帝桦
+        role: 2025级直博生
+        image: wdh.jpg
+
+      - id: jsj
+        name: 蒋叔稷
+        role: 2025级硕士生
+        image: jsj.jpg
+
+      - id: gzb
+        name: 高梓博
+        role: 2026级直博生（已推免录取）
+        image: gzb.jpg
+
+      - id: ljx
+        name: 刘嘉新
+        role: 2026级直博生（已推免录取）
+        image: ljx.jpg
+
+      - id: lcy
+        name: 李晨宇
+        role: 2026级硕士生（已推免录取）
+        image: lcy.jpg
+
+      - id: szh
+        name: 宋仔豪
+        role: 2026级硕士生（已推免录取）
+        image: szh.jpg
+
+      - id: wbx
+        name: 王炳轩
+        role: 2026级硕士生（已推免录取）
+        image: wbx.jpg
 ---
 
+<div class="lab-members-page">
+
+  {% for group in page.groups %}
+  <section class="lab-section">
+    <h2 class="lab-section-title">{{ group.title }}</h2>
+
+    <div class="lab-grid {% if group.members.size == 1 %}lab-grid-one{% endif %}">
+      {% for member in group.members %}
+      <div class="lab-card">
+
+        <div class="lab-photo-box">
+          <img src="{{ '/assets/img/prof_pic/' | append: member.image | relative_url }}" alt="{{ member.name }}">
+        </div>
+
+        <div class="lab-info">
+          <div class="lab-name-cn">{{ member.name }}</div>
+
+          {% if member.name_en %}
+          <div class="lab-name-en">{{ member.name_en }}</div>
+          {% endif %}
+
+          <div class="lab-divider"></div>
+
+          <div class="lab-role">{{ member.role }}</div>
+
+          {% if member.note %}
+          <div class="lab-note">{{ member.note }}</div>
+          {% endif %}
+        </div>
+
+        {% if member.email %}
+        <a class="lab-email" href="mailto:{{ member.email }}">
+          {{ member.email }}
+        </a>
+        {% endif %}
+
+        <a class="lab-more" href="{{ '/people/' | append: member.id | append: '/' | relative_url }}">
+          ›
+        </a>
+
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+
+</div>
+
+<style>
+.lab-members-page {
+  margin-top: 1.5rem;
+}
+
+.lab-section {
+  margin-bottom: 2.2rem;
+}
+
+.lab-section-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #006eb8;
+  border-top: 1px dashed #cfcfcf;
+  padding-top: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.lab-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(230px, 1fr));
+  gap: 1rem;
+}
+
+.lab-grid-one {
+  grid-template-columns: minmax(260px, 330px);
+}
+
+.lab-card {
+  position: relative;
+  display: grid;
+  grid-template-columns: 105px 1fr;
+  column-gap: 0.75rem;
+  min-height: 150px;
+  padding: 0.75rem;
+  border: 2px solid #3d6d9d;
+  border-radius: 10px;
+  background: #ffffff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.04);
+}
+
+.lab-photo-box img {
+  width: 95px;
+  height: 120px;
+  object-fit: cover;
+  border-top: 1px solid #e0e0e0;
+}
+
+.lab-info {
+  text-align: center;
+  padding-top: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+.lab-name-cn {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #111;
+}
+
+.lab-name-en {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #111;
+  margin-top: 0.15rem;
+}
+
+.lab-divider {
+  width: 100%;
+  height: 3px;
+  background: #1e5a89;
+  margin: 0.8rem 0 0.7rem;
+}
+
+.lab-role {
+  font-size: 0.85rem;
+  color: #333;
+}
+
+.lab-note {
+  font-size: 0.78rem;
+  color: #333;
+  margin-top: 0.25rem;
+  line-height: 1.35;
+}
+
+.lab-email {
+  position: absolute;
+  left: 0.55rem;
+  bottom: 0.35rem;
+  font-size: 0.75rem;
+  color: #2c5e8b;
+  text-decoration: none;
+}
+
+.lab-more {
+  position: absolute;
+  right: 0.55rem;
+  bottom: 0.45rem;
+  width: 20px;
+  height: 20px;
+  line-height: 17px;
+  text-align: center;
+  border-radius: 5px;
+  background: linear-gradient(#3da1d9, #1c6095);
+  color: #ffffff !important;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.lab-more:hover {
+  filter: brightness(1.1);
+  text-decoration: none;
+}
+
+html[data-theme="dark"] .lab-card {
+  background: #1f1f1f;
+  border-color: #5b86b0;
+}
+
+html[data-theme="dark"] .lab-name-cn,
+html[data-theme="dark"] .lab-name-en,
+html[data-theme="dark"] .lab-role,
+html[data-theme="dark"] .lab-note {
+  color: #eeeeee;
+}
+
+@media (max-width: 900px) {
+  .lab-grid {
+    grid-template-columns: repeat(2, minmax(230px, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .lab-grid,
+  .lab-grid-one {
+    grid-template-columns: 1fr;
+  }
+
+  .lab-card {
+    grid-template-columns: 95px 1fr;
+  }
+
+  .lab-photo-box img {
+    width: 85px;
+    height: 110px;
+  }
+}
+</style>

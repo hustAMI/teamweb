@@ -226,9 +226,10 @@ groups:
 
 .lab-divider {
   width: 100%;
-  height: 3px;
-  background: var(--global-theme-color);
-  margin: 0.8rem 0 0.7rem;
+  height: 0;
+  border-top: 1px solid var(--global-divider-color);
+  background: none;
+  margin: 0.75rem 0 0.65rem;
 }
 
 .lab-role {

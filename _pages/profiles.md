@@ -27,15 +27,17 @@ groups:
         email: 
         image: prof_jin.png
         link: https://hustami.github.io/teamweb/cv2/
-
-  - title: 学生
-    members:
+  
+  - title: 博士后
+    members：
       - id: zyq
         name: 周钰卿
         role: 博士后
-        note: 科技楼北315
         image: zyq.jpg
 
+
+  - title: 学生
+    members:
       - id: zyl
         name: 朱玉良
         role: 2024级博士生
@@ -71,11 +73,7 @@ groups:
         role: 2025级直博生
         image: wdh.jpg
 
-      - id: jsj
-        name: 蒋叔稷
-        role: 2025级硕士生
-        image: jsj.jpg
-
+      
       - id: gzb
         name: 高梓博
         role: 2026级直博生（已推免录取）
@@ -96,10 +94,20 @@ groups:
         role: 2026级硕士生（已推免录取）
         image: szh.jpg
 
+      
+
+  - title: 学生
+    members:
+      - id: jsj
+        name: 蒋叔稷
+        role: 2025级硕士生
+        image: jsj.jpg
+      
       - id: wbx
         name: 王炳轩
         role: 2026级硕士生（已推免录取）
         image: wbx.jpg
+
 ---
 
 <div class="lab-members-page">

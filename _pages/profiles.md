@@ -191,10 +191,11 @@ groups:
   column-gap: 0.75rem;
   min-height: 150px;
   padding: 0.75rem;
-  border: 2px solid #3d6d9d;
-  border-radius: 10px;
-  background: #ffffff;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.04);
+
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.25rem;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
 }
 
 .lab-photo-box img {

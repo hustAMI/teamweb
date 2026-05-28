@@ -15,10 +15,8 @@ categories: news
 
 此外，他曾担任多项国际和各学术会议的委员会成员、分会主席，受邀国内外学术会议做邀请报告，并长期为学术期刊承担审稿工作。此次蔡凯明担任 EDL 期刊编委，表明其研究领域得到国际同行的高度肯定。
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/publication_preview/electron_device_letters.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="{{ '/assets/img/publication_preview/electron_device_letters.jpg' | relative_url }}" alt="announcement image" style="width: 65%; max-width: 900px; height: auto;">
 </div>
 
 IEEE Electron Devices Society 官网：  

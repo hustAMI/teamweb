@@ -88,6 +88,11 @@ groups:
         role: 2024级硕士生
         image: hjm.jpg
      
+      - id: gzq
+        name: 高卓祺
+        role: 2025级硕士生
+        image: gzq.jpg
+        
       - id: jsj
         name: 蒋叔稷
         role: 2025级硕士生

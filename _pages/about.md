@@ -2,7 +2,7 @@
 layout: about
 title: 首页
 permalink: /
-subtitle: hustAMI
+subtitle: Applied Magnetics and Integration, AMI
 profile:
   align: right
   image: hust2.jpg

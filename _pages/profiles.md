@@ -111,7 +111,7 @@ groups:
       <div class="lab-card">
 
         <div class="lab-photo-box">
-          <img src="{{ '/assets/img/prof_pic/' | append: member.image | relative_url }}" alt="{{ member.name }}">
+          <img src="{{ '/assets/img/' | append: member.image | relative_url }}" alt="{{ member.name }}">
         </div>
 
         <div class="lab-info">

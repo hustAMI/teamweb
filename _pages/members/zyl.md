@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 朱玉良
-permalink: /people/zyq/
+title: 
+permalink: /people/zyl/
 nav: false
 ---
 

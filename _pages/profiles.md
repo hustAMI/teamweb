@@ -26,6 +26,7 @@ groups:
         role: 讲师
         email: 
         image: prof_jin.png
+        link: https://hustami.github.io/teamweb/cv2/
 
   - title: 学生
     members:

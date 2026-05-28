@@ -104,55 +104,39 @@ groups:
 
 <div class="lab-members-page">
 
-  {% for group in page.groups %}
-  <section class="lab-section">
-    <h2 class="lab-section-title">{{ group.title }}</h2>
+  {% for member in group.members %}
 
-    <div class="lab-grid {% if group.members.size == 1 %}lab-grid-one{% endif %}">
-      {% for member in group.members %}
-      <div class="lab-card">
+{% if member.link %}
+  {% assign card_url = member.link %}
+{% else %}
+  {% assign card_url = '/people/' | append: member.id | append: '/' | relative_url %}
+{% endif %}
 
-        <div class="lab-photo-box">
-          <img src="{{ '/assets/img/' | append: member.image | relative_url }}" alt="{{ member.name }}">
-        </div>
+<a class="lab-card" href="{{ card_url }}" aria-label="查看{{ member.name }}详细信息">
 
-        <div class="lab-info">
-          <div class="lab-name-cn">{{ member.name }}</div>
+  <div class="lab-photo-box">
+    <img src="{{ '/assets/img/' | append: member.image | relative_url }}" alt="{{ member.name }}">
+  </div>
 
-          {% if member.name_en %}
-          <div class="lab-name-en">{{ member.name_en }}</div>
-          {% endif %}
+  <div class="lab-info">
+    <div class="lab-name-cn">{{ member.name }}</div>
 
-          <div class="lab-divider"></div>
+    {% if member.name_en %}
+    <div class="lab-name-en">{{ member.name_en }}</div>
+    {% endif %}
 
-          <div class="lab-role">{{ member.role }}</div>
+    <div class="lab-divider"></div>
 
-          {% if member.note %}
-          <div class="lab-note">{{ member.note }}</div>
-          {% endif %}
-        </div>
+    <div class="lab-role">{{ member.role }}</div>
 
-        {% if member.email %}
-        <a class="lab-email" href="mailto:{{ member.email }}">
-          {{ member.email }}
-        </a>
-        {% endif %}
+    {% if member.note %}
+    <div class="lab-note">{{ member.note }}</div>
+    {% endif %}
+  </div>
 
-        {% if member.link %}
-        <a class="lab-more" href="{{ member.link }}">
-         ›
-        </a>
-        {% else %}
-        <a class="lab-more" href="{{ '/people/' | append: member.id | append: '/' | relative_url }}">
-         ›
-        </a>
-        {% endif %}
+</a>
 
-      </div>
-      {% endfor %}
-    </div>
-  </section>
-  {% endfor %}
+{% endfor %}
 
 </div>
 

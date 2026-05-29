@@ -115,6 +115,7 @@ groups:
 
   - title: 已毕业学生
     collapsible: true
+    clickable: false
     members:
       - id: whp
         name: 王皓鹏

@@ -65,40 +65,32 @@ $max-content-width: {{ site.max_width }};
   margin-bottom: 3rem;
 }
 
-/* CV 页面通用卡片样式 */
-.cv .cv-section {
-  border-radius: 8px;
-  border: 1px solid #d9e6f5;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+/* Work：浅蓝文字 */
+.cv .cv-work .card-title,
+.cv .cv-work a {
+  color: #6aaee8 !important;
 }
 
-/* Work：浅蓝 */
-.cv .cv-work {
-  background-color: #f4f9ff;
-  border-left: 6px solid #8ec5ff;
+/* Education：中蓝文字 */
+.cv .cv-education .card-title,
+.cv .cv-education a {
+  color: #2f78d8 !important;
 }
 
-/* Education：中蓝 */
-.cv .cv-education {
-  background-color: #e8f2ff;
-  border-left: 6px solid #5aa2ff;
+/* Publications：深蓝文字 */
+.cv .cv-publications .card-title,
+.cv .cv-publications a {
+  color: #1f5fb8 !important;
 }
 
-/* Publications：深蓝 */
-.cv .cv-publications {
-  background-color: #dbeaff;
-  border-left: 6px solid #2f78d8;
+.cv .cv-work .badge {
+  background-color: #8ec5ff !important;
 }
 
-/* 标题颜色同步区分 */
-.cv .cv-work .card-title {
-  color: #4d8fd6;
+.cv .cv-education .badge {
+  background-color: #5aa2ff !important;
 }
 
-.cv .cv-education .card-title {
-  color: #2f78d8;
-}
-
-.cv .cv-publications .card-title {
-  color: #1f5fb8;
+.cv .cv-publications .badge {
+  background-color: #2f78d8 !important;
 }

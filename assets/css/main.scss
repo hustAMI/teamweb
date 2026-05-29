@@ -103,3 +103,45 @@ $max-content-width: {{ site.max_width }};
   color: #ffffff !important;
 }
 
+.cv-post-header {
+  position: relative;
+  padding-right: 9rem;
+}
+
+.cv-back-button {
+  position: absolute;
+  top: 0.35rem;
+  right: 0;
+
+  display: inline-block;
+  padding: 0.35rem 0.85rem;
+
+  border: 1px solid var(--global-theme-color);
+  border-radius: 6px;
+
+  color: var(--global-theme-color) !important;
+  background: transparent;
+
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none !important;
+
+  transition: all 0.2s ease;
+}
+
+.cv-back-button:hover {
+  color: #ffffff !important;
+  background: var(--global-theme-color);
+  text-decoration: none !important;
+}
+
+@media (max-width: 600px) {
+  .cv-post-header {
+    padding-right: 0;
+  }
+
+  .cv-back-button {
+    position: static;
+    margin-bottom: 0.8rem;
+  }
+}

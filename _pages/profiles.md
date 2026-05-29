@@ -147,37 +147,51 @@ groups:
 
         {% for member in group.members %}
 
-          {% if member.link %}
-            {% assign card_url = member.link %}
-          {% else %}
-            {% assign card_url = '/people/' | append: member.id | append: '/' | relative_url %}
-          {% endif %}
+  {% assign card_clickable = true %}
 
-          <a class="lab-card" href="{{ card_url }}" aria-label="查看{{ member.name }}详细信息">
+  {% if group.clickable == false %}
+    {% assign card_clickable = false %}
+  {% endif %}
 
-            <div class="lab-photo-box">
-              <img src="{{ '/assets/img/members/' | append: member.image | relative_url }}" alt="{{ member.name }}">
-            </div>
+  {% if member.link %}
+    {% assign card_url = member.link %}
+  {% else %}
+    {% assign card_url = '/people/' | append: member.id | append: '/' | relative_url %}
+  {% endif %}
 
-            <div class="lab-info">
-              <div class="lab-name-cn">{{ member.name }}</div>
+  {% if card_clickable %}
+    <a class="lab-card" href="{{ card_url }}" aria-label="查看{{ member.name }}详细信息">
+  {% else %}
+    <div class="lab-card lab-card-static">
+  {% endif %}
 
-              {% if member.name_en %}
-              <div class="lab-name-en">{{ member.name_en }}</div>
-              {% endif %}
+      <div class="lab-photo-box">
+        <img src="{{ '/assets/img/members/' | append: member.image | relative_url }}" alt="{{ member.name }}">
+      </div>
 
-              <div class="lab-divider"></div>
+      <div class="lab-info">
+        <div class="lab-name-cn">{{ member.name }}</div>
 
-              <div class="lab-role">{{ member.role }}</div>
+        {% if member.name_en %}
+        <div class="lab-name-en">{{ member.name_en }}</div>
+        {% endif %}
 
-              {% if member.note %}
-              <div class="lab-note">{{ member.note }}</div>
-              {% endif %}
-            </div>
+        <div class="lab-divider"></div>
 
-          </a>
+        <div class="lab-role">{{ member.role }}</div>
 
-        {% endfor %}
+        {% if member.note %}
+        <div class="lab-note">{{ member.note }}</div>
+        {% endif %}
+      </div>
+
+  {% if card_clickable %}
+    </a>
+  {% else %}
+    </div>
+  {% endif %}
+
+{% endfor %}
 
       </div>
 

@@ -42,7 +42,7 @@ nav: false
   </ul>
 
   <p>
-    <a href="{{ '/people/' | relative_url }}">← 返回科研团队</a>
+    <a href="{{ '/people/' | relative_url }}">← 返回</a>
   </p>
 
 </div>

@@ -84,18 +84,22 @@ $max-content-width: {{ site.max_width }};
 }
 
 /* 日期块颜色也分别修改 */
-.cv-date-work {
+/* 强制覆盖 CV 日期方块颜色 */
+.cv span.cv-date-work.badge {
   background: #7db7f0 !important;
+  background-color: #7db7f0 !important;
   color: #ffffff !important;
 }
 
-.cv-date-education {
+.cv span.cv-date-education.badge {
   background: #4a90e2 !important;
+  background-color: #4a90e2 !important;
   color: #ffffff !important;
 }
 
-.cv-date-publications {
+.cv span.cv-date-publications.badge {
   background: #1f5fb8 !important;
+  background-color: #1f5fb8 !important;
   color: #ffffff !important;
 }
 

@@ -84,30 +84,18 @@ $max-content-width: {{ site.max_width }};
 }
 
 /* 日期块颜色也分别修改 */
-/* Work 日期块：浅蓝 */
-.cv .cv-work .badge,
-.cv .cv-work span.badge,
-.cv .cv-work span[class*="badge"] {
+.cv-date-work {
   background: #7db7f0 !important;
-  background-color: #7db7f0 !important;
   color: #ffffff !important;
 }
 
-/* Education 日期块：中蓝 */
-.cv .cv-education .badge,
-.cv .cv-education span.badge,
-.cv .cv-education span[class*="badge"] {
+.cv-date-education {
   background: #4a90e2 !important;
-  background-color: #4a90e2 !important;
   color: #ffffff !important;
 }
 
-/* Publications 日期块：深蓝 */
-.cv .cv-publications .badge,
-.cv .cv-publications span.badge,
-.cv .cv-publications span[class*="badge"] {
+.cv-date-publications {
   background: #1f5fb8 !important;
-  background-color: #1f5fb8 !important;
   color: #ffffff !important;
 }
 

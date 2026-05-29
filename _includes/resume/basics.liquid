@@ -30,7 +30,7 @@
   <!-- 原图片代码：仅加固定尺寸，不压缩 -->
   {% if data[1].image %}
     <img
-      src="{{ '/assets/img/' | append: data[1].image | relative_url }}"
+      src="{{ data[1].image | relative_url }}"
       class="profile-img"
       alt="Profile picture"
       style="flex-shrink: 0; width: 150px; height: auto;"

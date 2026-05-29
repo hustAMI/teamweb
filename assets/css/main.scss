@@ -68,7 +68,7 @@ $max-content-width: {{ site.max_width }};
 /* Work：浅蓝文字 */
 .cv .cv-work .card-title,
 .cv .cv-work a {
-  color: #6aaee8 !important;
+  color: #5fa8e8 !important;
 }
 
 /* Education：中蓝文字 */
@@ -86,14 +86,14 @@ $max-content-width: {{ site.max_width }};
 /* 日期块颜色也分别修改 */
 /* 强制覆盖 CV 日期方块颜色 */
 .cv .card .list-group-item span.badge.cv-date-work {
-  background: #7db7f0 !important;
-  background-color: #7db7f0 !important;
+  background: #5fa8e8 !important;
+  background-color: #5fa8e8 !important;
   color: #ffffff !important;
 }
 
 .cv .card .list-group-item span.badge.cv-date-education {
-  background: #4a90e2 !important;
-  background-color: #4a90e2 !important;
+  background: #2f78d8 !important;
+  background-color: #2f78d8 !important;
   color: #ffffff !important;
 }
 

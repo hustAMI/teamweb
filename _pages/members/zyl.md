@@ -9,7 +9,7 @@ nav: false
 
   <div class="member-header">
     <div class="member-photo">
-      <img src="{{ '/assets/img/zyl.jpg' | relative_url }}" alt="朱玉良">
+      <img src="{{ '/assets/img/members/zyl.jpg' | relative_url }}" alt="朱玉良">
     </div>
 
     <div class="member-info">

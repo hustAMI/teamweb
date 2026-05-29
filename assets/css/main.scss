@@ -84,29 +84,30 @@ $max-content-width: {{ site.max_width }};
 }
 
 /* 日期块颜色也分别修改 */
-.cv .cv-work .badge {
+/* Work 日期块：浅蓝 */
+.cv .cv-work .badge,
+.cv .cv-work span.badge,
+.cv .cv-work span[class*="badge"] {
+  background: #7db7f0 !important;
   background-color: #7db7f0 !important;
   color: #ffffff !important;
 }
 
-.cv .cv-education .badge {
+/* Education 日期块：中蓝 */
+.cv .cv-education .badge,
+.cv .cv-education span.badge,
+.cv .cv-education span[class*="badge"] {
+  background: #4a90e2 !important;
   background-color: #4a90e2 !important;
   color: #ffffff !important;
 }
 
-.cv .cv-publications .badge {
+/* Publications 日期块：深蓝 */
+.cv .cv-publications .badge,
+.cv .cv-publications span.badge,
+.cv .cv-publications span[class*="badge"] {
+  background: #1f5fb8 !important;
   background-color: #1f5fb8 !important;
   color: #ffffff !important;
 }
 
-.cv .cv-work {
-  border-left: 4px solid #7db7f0 !important;
-}
-
-.cv .cv-education {
-  border-left: 4px solid #4a90e2 !important;
-}
-
-.cv .cv-publications {
-  border-left: 4px solid #1f5fb8 !important;
-}

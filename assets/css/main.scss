@@ -83,4 +83,30 @@ $max-content-width: {{ site.max_width }};
   color: #1f5fb8 !important;
 }
 
+/* 日期块颜色也分别修改 */
+.cv .cv-work .badge {
+  background-color: #7db7f0 !important;
+  color: #ffffff !important;
+}
 
+.cv .cv-education .badge {
+  background-color: #4a90e2 !important;
+  color: #ffffff !important;
+}
+
+.cv .cv-publications .badge {
+  background-color: #1f5fb8 !important;
+  color: #ffffff !important;
+}
+
+.cv .cv-work {
+  border-left: 4px solid #7db7f0 !important;
+}
+
+.cv .cv-education {
+  border-left: 4px solid #4a90e2 !important;
+}
+
+.cv .cv-publications {
+  border-left: 4px solid #1f5fb8 !important;
+}

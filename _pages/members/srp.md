@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /people/zyl/
+permalink: /people/srp/
 nav: false
 ---
 

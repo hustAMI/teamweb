@@ -14,7 +14,7 @@ nav: false
 
     <div class="member-info">
       <h1>宋仔豪</h1>
-      <p><strong>硕士生</strong></p>
+      <p><strong>2026级硕士生</strong></p>
       <p>科技楼北315</p>
     </div>
   </div>
@@ -24,14 +24,14 @@ nav: false
   <h2>个人简介</h2>
 
   <p>
-  这里填写个人简介。
+  本人研究方向：非对称自旋轨道矩对磁化定向翻转研究
   </p>
 
   <h2>研究方向</h2>
 
   <ul>
-    <li>磁性存储器件</li>
-    <li>自旋电子学</li>
+    <li>非对称自旋轨道矩对磁化定向翻转研究</li>
+   
     
   </ul>
 

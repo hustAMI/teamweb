@@ -14,7 +14,7 @@ nav: false
 
     <div class="member-info">
       <h1>石瑞鹏</h1>
-      <p><strong>博士生</strong></p>
+      <p><strong>2024级博士生</strong></p>
       <p>科技楼北315</p>
     </div>
   </div>

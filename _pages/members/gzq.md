@@ -14,7 +14,7 @@ nav: false
 
     <div class="member-info">
       <h1>高卓祺</h1>
-      <p><strong>硕士生</strong></p>
+      <p><strong>2025级硕士生</strong></p>
       <p>科技楼北315</p>
     </div>
   </div>

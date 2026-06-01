@@ -35,11 +35,7 @@ nav: false
     
   </ul>
 
-  <h2>代表性成果</h2>
-
-  <ul>
-    <li>这里填写论文、专利或项目成果。</li>
-  </ul>
+  
 
   <p>
     <a href="{{ '/people/' | relative_url }}">← 返回</a>

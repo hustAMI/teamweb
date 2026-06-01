@@ -14,7 +14,7 @@ nav: false
 
     <div class="member-info">
       <h1>高梓博</h1>
-      <p><strong>博士生</strong></p>
+      <p><strong>2026级直博生</strong></p>
       <p>科技楼北315</p>
     </div>
   </div>

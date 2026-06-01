@@ -14,7 +14,7 @@ nav: false
 
     <div class="member-info">
       <h1>蒋叔稷</h1>
-      <p><strong>硕士生</strong></p>
+      <p><strong>2025级硕士生</strong></p>
       <p>科技楼北315</p>
     </div>
   </div>
@@ -24,14 +24,14 @@ nav: false
   <h2>个人简介</h2>
 
   <p>
-  这里填写个人简介。
+  本人兴趣爱好：棒垒球🥎
   </p>
 
   <h2>研究方向</h2>
 
   <ul>
-    <li>磁性存储器件</li>
-    <li>自旋电子学</li>
+    <li>器件仿真</li>
+    <li>MTJ热稳定性研究</li>
     
   </ul>
 

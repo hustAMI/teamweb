@@ -39,7 +39,7 @@ nav: false
  <div class="back-button-wrap">
   <a class="member-back-button" href="{{ '/people/' | relative_url }}">← 返回</a>
 </div>
-</div>
+
 
 </div>
 

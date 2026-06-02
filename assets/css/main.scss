@@ -80,7 +80,7 @@ $max-content-width: {{ site.max_width }};
 /* Publications：浅蓝文字 */
 .cv .cv-publications .card-title,
 .cv .cv-publications a {
-  color: #5fa8e8 !important;
+  color: #4a90d9 !important;
 }
 
 /* 日期块颜色也分别修改 */
@@ -98,7 +98,7 @@ $max-content-width: {{ site.max_width }};
 }
 
 .cv .card .list-group-item span.badge.cv-date-publications {
-  background: #5fa8e8 !important;
+  background: #4a90d9 !important;
   background-color: #5fa8e8 !important;
   color: #ffffff !important;
 }

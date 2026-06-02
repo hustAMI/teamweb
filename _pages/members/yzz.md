@@ -41,9 +41,11 @@ nav: false
     <li>这里填写论文、专利或项目成果。</li>
   </ul>
 
-  <p>
-    <a href="{{ '/people/' | relative_url }}">← 返回</a>
-  </p>
+  <div class="back-button-wrap">
+  <a class="member-back-button" href="{{ '/people/' | relative_url }}">← 返回</a>
+</div>
+</div>
+
 
 </div>
 
@@ -75,5 +77,30 @@ nav: false
   .member-header {
     flex-direction: column;
   }
+}
+
+  /* 返回按钮整体位置：往下放 */
+.back-button-wrap {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+/* 返回按钮样式 */
+.member-back-button {
+  display: inline-block;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid #007bff;
+  border-radius: 0.35rem;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+/* 鼠标放上去时的效果 */
+.member-back-button:hover {
+  background-color: #007bff;
+  color: #ffffff;
+  text-decoration: none;
 }
 </style>

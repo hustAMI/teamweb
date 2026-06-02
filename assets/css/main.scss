@@ -65,10 +65,10 @@ $max-content-width: {{ site.max_width }};
   margin-bottom: 3rem;
 }
 
-/* Work：浅蓝文字 */
+/* Work：深蓝文字 */
 .cv .cv-work .card-title,
 .cv .cv-work a {
-  color: #5fa8e8 !important;
+  color: #1f5fb8 !important;
 }
 
 /* Education：中蓝文字 */
@@ -77,17 +77,17 @@ $max-content-width: {{ site.max_width }};
   color: #2f78d8 !important;
 }
 
-/* Publications：深蓝文字 */
+/* Publications：浅蓝文字 */
 .cv .cv-publications .card-title,
 .cv .cv-publications a {
-  color: #1f5fb8 !important;
+  color: #5fa8e8 !important;
 }
 
 /* 日期块颜色也分别修改 */
 /* 强制覆盖 CV 日期方块颜色 */
 .cv .card .list-group-item span.badge.cv-date-work {
-  background: #5fa8e8 !important;
-  background-color: #5fa8e8 !important;
+  background: #1f5fb8 !important;
+  background-color: #1f5fb8 !important;
   color: #ffffff !important;
 }
 
@@ -98,8 +98,8 @@ $max-content-width: {{ site.max_width }};
 }
 
 .cv .card .list-group-item span.badge.cv-date-publications {
-  background: #1f5fb8 !important;
-  background-color: #1f5fb8 !important;
+  background: #5fa8e8 !important;
+  background-color: #5fa8e8 !important;
   color: #ffffff !important;
 }
 

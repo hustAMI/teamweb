@@ -124,7 +124,7 @@ groups:
         note: 毕业去向：北京熵旋芯智有限公司
 
       - id: sk
-        name: 石坤
+        name: 石琨
         role: 本科生（2024-2025）
         image: sk.jpg
         note: 毕业去向：美国伊利诺伊大学香槟分校攻读博士

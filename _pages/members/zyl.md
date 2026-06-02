@@ -76,7 +76,7 @@ nav: false
   .member-header {
     flex-direction: column;
   }
-
+}
   /* 返回按钮整体位置：往下放 */
 .back-button-wrap {
   margin-top: 3rem;
@@ -101,5 +101,5 @@ nav: false
   color: #ffffff;
   text-decoration: none;
 }
-}
+
 </style>

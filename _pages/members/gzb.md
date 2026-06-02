@@ -38,7 +38,7 @@ nav: false
   <h2 class="representative-title">代表性成果</h2>
 
 <div class="publications representative-publications">
-  {% bibliography -f papers -q @*[ljx=true] %}
+  {% bibliography -f papers -q @*[gzb=true] %}
 </div>
 
 <div class="back-button-wrap">

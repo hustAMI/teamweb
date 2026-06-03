@@ -9,7 +9,7 @@ categories: news
 
 物理学院蔡凯明教授近日应邀担任国际微电子器件领域顶级学术期刊《Electron Device Letters》（《电子器件快报》，简称 EDL）编委（Editor）。
 
-《Electron Device Letters》是国际电子电气学会出版的微电子器件领域顶级期刊，也是 IEEE Electron Devices Society 旗舰期刊。创刊于 1980 年，旨在及时传播地报道电子器件领域的重大原创研究进展和突破，在国际微电子领域享有权威的学术地位和广泛的影响力。该期刊涵盖了半导体器件、光电子器件、微电子器件、纳米器件等方面的内容，旨在推动电子器件领域的研究和创新。
+《Electron Device Letters》是国际电子电气学会出版的微电子器件领域顶级期刊，也是 IEEE Electron Devices Society 旗舰期刊。创刊于 1980 年，旨在及时报道电子器件领域的重大原创研究进展和突破，在国际微电子领域享有权威的学术地位和广泛的影响力。该期刊涵盖了半导体器件、光电子器件、微电子器件、纳米器件等方面的内容，旨在推动电子器件领域的研究和创新。
 
 蔡凯明主要从事磁性物理与自旋磁存储器件研究，在 Science、Nature Electronics、Nature Materials、National Science Review、IEEE International Electron Devices Meeting（IEDM）和 IEEE Symposium on VLSI Technology and Circuits（VLSI）等国际学术期刊和会议发表论文 40 余篇，申请专利 16 项，引用约 4000 次。其研究成果曾在 Nature Electronics 和 APS 等专题亮点报道，曾获得中国区《麻省理工科技评论》“35 岁以下科技创新 35 人”发明家称号。
 

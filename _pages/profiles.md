@@ -73,6 +73,11 @@ groups:
         role: 2026级直博生（已推免录取）
         image: gzb.jpg
 
+      - id: zy
+        name: 张杨
+        role: 2026级直博生（已推免录取）
+        image: zy.jpg
+
       
 
   - title: 硕士生

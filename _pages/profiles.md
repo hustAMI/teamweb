@@ -118,7 +118,7 @@ groups:
         image: lcy.jpg
 
 
-  - title: 已毕业学生
+  - title: 毕业生
     collapsible: true
     clickable: false
     members:

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: 科研成果
-description: 代表性论文、专利及其他科研成果
+description: Publications, Patents, and Other Research Achievements
 nav_order: 3
 ---
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: 	刘嘉新同学被评为物理学院2026届优秀本科毕业生
+date: 2026-06-10 00:00:00
+description: 刘嘉新同学被评为物理学院2026届优秀本科毕业生
+categories: news
+---
 
 荣誉奖项
 

@@ -25,7 +25,7 @@ groups:
         name_en: Tianli Jin
         role: 讲师
         email: 
-        image: prof_jin.png
+        image: prof_jin_small.png
         link: https://hustami.github.io/teamweb/cv2/
   
   - title: 博士后
@@ -33,7 +33,7 @@ groups:
       - id: zyq
         name: 周钰卿
         role: 博士后
-        image: zyq.jpg
+        image: zyq_small.jpg
 
 
   - title: 博士生
@@ -41,42 +41,42 @@ groups:
       - id: zyl
         name: 朱玉良
         role: 2024级博士生
-        image: zyl.jpg
+        image: zyl_small.jpg
 
       - id: srp
         name: 石瑞鹏
         role: 2024级博士生
-        image: srp.jpg
+        image: srp_small.jpg
 
       - id: yzz
         name: 叶壮壮
         role: 2025级博士生
-        image: yzz.jpg
+        image: yzz_small.jpg
         
       - id: hsh
         name: 侯绍华
         role: 2025级博士生
-        image: hsh.jpg
+        image: hsh_small.jpg
         
       - id: wdh
         name: 吴帝桦
         role: 2025级直博生
-        image: wdh.jpg
+        image: wdh_small.jpg
 
       - id: ljx
         name: 刘嘉新
         role: 2026级直博生（已推免录取）
-        image: ljx.jpg
+        image: ljx_small.jpg
         
       - id: gzb
         name: 高梓博
         role: 2026级直博生（已推免录取）
-        image: gzb.jpg
+        image: gzb_small.jpg
 
       - id: zy
         name: 张杨
         role: 2026级直博生（已推免录取）
-        image: zy.jpg
+        image: zy_small.jpg
 
       
 
@@ -85,37 +85,37 @@ groups:
       - id: hjm
         name: 华俊茂
         role: 2024级硕士生
-        image: hjm.jpg
+        image: hjm_small.jpg
      
       - id: yyh
         name: 袁宇豪
         role: 2024级硕士生
-        image: yyh.jpg
+        image: yyh_small.jpg
       
       - id: gzq
         name: 高卓祺
         role: 2025级硕士生
-        image: gzq.jpg
+        image: gzq_small.jpg
         
       - id: jsj
         name: 蒋叔稷
         role: 2025级硕士生
-        image: jsj.jpg
+        image: jsj_small.jpg
       
       - id: wbx
         name: 王炳轩
         role: 2026级硕士生（已推免录取）
-        image: wbx.jpg
+        image: wbx_small.jpg
 
       - id: szh
         name: 宋仔豪
         role: 2026级硕士生（已推免录取）
-        image: szh.jpg
+        image: szh_small.jpg
 
       - id: lcy
         name: 李晨宇
         role: 2026级硕士生（已推免录取）
-        image: lcy.jpg
+        image: lcy_small.jpg
 
 
   - title: 毕业生
@@ -125,13 +125,13 @@ groups:
       - id: whp
         name: 王皓鹏
         role: 硕士（2023-2026）
-        image: whp.jpg
+        image: whp_small.jpg
         note: 毕业去向：北京熵旋芯智有限公司
 
       - id: sk
         name: 石琨
         role: 本科生（2024-2025）
-        image: sk.jpg
+        image: sk_small.jpg
         note: 毕业去向：美国伊利诺伊大学香槟分校攻读博士
 ---
 

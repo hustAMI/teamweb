@@ -6,6 +6,10 @@ description: 刘嘉新同学被评为物理学院2026届优秀本科毕业生
 categories: news
 ---
 
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="{{ '/assets/img/members/ljx.jpg' | relative_url }}" alt="announcement image" style="width: 65%; max-width: 900px; height: auto;">
+</div>
+
 <h3 class="news-section-title">荣誉奖项</h3>
 
 - 2025年获国家奖学金

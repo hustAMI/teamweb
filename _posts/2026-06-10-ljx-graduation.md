@@ -26,7 +26,7 @@ categories: news
 
 <h3 class="news-section-title">毕业去向</h3>
 
-<p class="news-destination">直博华中科技大学物理学院, 蔡凯明老师课题组</p>
+<p class="news-section-title">直博华中科技大学物理学院, 蔡凯明老师课题组</p>
 
 <h3 class="news-section-title">毕业寄语</h3>
 

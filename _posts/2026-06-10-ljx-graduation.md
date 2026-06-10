@@ -7,7 +7,7 @@ categories: news
 ---
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="{{ '/assets/img/members/ljx.jpg' | relative_url }}" alt="announcement image" style="width: 65%; max-width: 900px; height: auto;">
+  <img src="{{ '/assets/img/members/ljx.jpg' | relative_url }}" alt="announcement image" style="width: 30%; max-width: 300px; height: auto;">
 </div>
 
 <h3 class="news-section-title">荣誉奖项</h3>
@@ -30,7 +30,7 @@ categories: news
 
 <h3 class="news-section-title">毕业去向</h3>
 
-<p class="news-section-title">直博华中科技大学物理学院, 蔡凯明老师课题组</p>
+直博华中科技大学物理学院, 蔡凯明老师课题组
 
 <h3 class="news-section-title">毕业寄语</h3>
 
@@ -52,13 +52,6 @@ categories: news
   margin-top: 1rem;
 }
 
-.news-destination {
-  text-align: center;
-  font-weight: 700;
-  font-size: 1.05rem;
-  color: #222;
-  margin-top: 0.2rem;
-}
 
 .news-message {
   text-align: left;
